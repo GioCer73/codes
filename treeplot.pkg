@@ -1,0 +1,4 @@
+v 1
+d treeplot: Plotting regression and classification trees in Stata
+f treeplot.ado
+f treeplot.sthlp
