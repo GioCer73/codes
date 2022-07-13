@@ -1,2 +1,2 @@
 v 3
-d pystacked: Stacking regression in Stata
+d treeplot: Plotting a tree in Stata
